@@ -1,5 +1,9 @@
 beautiful, (masterpiece), best quality, (extremely detailed face), extremely detailed eyes,  perfect lighting, OverallDetail, detailed, textured skin,
 
+(worst quality:1.9), (low quality:1.9), (monochrome:1.1), EasyNegative, By bad artist, bad_prompt_version2, badhandsv5-neg, verybadimagenegative_v1.3, ng_deepnegative_v1_75t, (((out of frame:2.0))), (((cropped))), (((text))), ((inscription)), ((censored)), stockings, ((watermark)), (((blurry))), ((logo)), ((bad anatomy)), (((duplicate))), ((extra_hands)),  (((extra arms))), ((extra legs)), ((artist signature)), ((missing arms)), ((missing legs)), ((extra ass)) mutated hands,
+watermark, text, signature, worst quality, low quality, normal quality, lowres, simple background,
+
+
 rem,  rem \(re:zero\), 
 short hair, bule hair, hair over one eye, blue eyes, 
 maid, roswaal mansion maid uniform, 
