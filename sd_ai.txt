@@ -19,3 +19,6 @@ feet,barefoot,foot focus,soles,feet up,detailed background,dynamic pose,large br
 foot focus, feet soles, i sitting on couch, crossed legs, looking at viewer, from below,
 
 <lora:zerotwo-nvwls-v1:0.8>, zerotwo, horns, hairband, necktie, red dress, pantyhose, 
+
+https://civitai.com/api/download/models/100675
+https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/141871/model/meinahentai20V4.g5SV.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22meinahentai_v4.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20240426/us-east-1/s3/aws4_request&X-Amz-Date=20240426T160116Z&X-Amz-SignedHeaders=host&X-Amz-Signature=8c656ef5239d00b6f819d9eb63ff4301489e9da22d00c4f0b312ea536e143a48
